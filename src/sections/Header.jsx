@@ -43,7 +43,7 @@ const Header = () => {
     >
       <div className="container flex h-14 items-center max-lg:px-5">
         <a className="lg:hidden flex-1 cursor-pointer z-2">
-          <img src="/images/xora.svg" width={115} height={55} alt="logo" />
+          <img src="/public/images/xora.svg" width={115} height={55} alt="logo" />
         </a>
 
         <div
@@ -72,7 +72,7 @@ const Header = () => {
                     )}
                   >
                     <img
-                      src="/images/xora.svg"
+                      src="./public/images/xora.svg"
                       width={160}
                       height={55}
                       alt="logo"
@@ -90,7 +90,7 @@ const Header = () => {
 
             <div className="lg:hidden block absolute top-1/2 left-0 w-[960px] h-[380px] translate-x-[-290px] -translate-y-1/2 rotate-90">
               <img
-                src="/images/bg-outlines.svg"
+                src="./images/bg-outlines.svg"
                 width={960}
                 height={380}
                 alt="outline"

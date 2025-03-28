@@ -3,6 +3,7 @@
   "homepage": "https://Aman241104.github.io/saas_landingpage/",
   "private": true,
   "version": "0.0.0",
+  "private": true,
   "type": "module",
   "scripts": {
     "dev": "vite",
