@@ -1,6 +1,6 @@
 {
   "name": "saaslandingpage",
-  "homepage": "https://Aman241104.github.io/saas_landing_page/",
+  "homepage": "https://Aman241104.github.io/saas_landingpage/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,8 +9,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.17",
